@@ -1,0 +1,50 @@
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color:#EE82EE;
+}
+h1 {
+    text-align:center; 
+    padding-left: 300px;
+   
+}
+.width{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.wid{
+    padding-bottom: 5%;
+
+}
+.flex{
+    display: flex;
+}
+
+
+
+.fine{
+        width: 7%;
+        padding-right: 20%;
+       
+
+
+
+}
+.fine1{
+    width: 9%;
+    padding-left: 33%;
+
+   
+
+}
+.color{
+    border-radius: 25%;
+    background-color: aqua;
+    width: 10%;
+}
