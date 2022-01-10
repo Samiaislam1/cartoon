@@ -9,9 +9,9 @@ body{
 span{
     color:#EE82EE;
 }
-h1 {
+.display {
     text-align:center; 
-    padding-left: 300px;
+    padding-left: 150px;
    
 }
 .width{
